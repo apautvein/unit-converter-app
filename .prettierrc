@@ -1,0 +1,8 @@
+{
+  "singleQuote": true,
+  "bracketSameLine": true,
+  "jsxSingleQuote": true,
+  "[typescriptreact]": {
+    "editor.formatOnSave": true
+  }
+}
